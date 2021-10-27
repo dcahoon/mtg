@@ -1,0 +1,15 @@
+{
+  "name": "mtgapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "MTGCards.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mtgsdk": "^0.4.3",
+    "require": "^2.4.20"
+  }
+}
